@@ -7,4 +7,6 @@
 ![boy](https://github.com/Messi-syf/DaoDao-Bookkeeping/blob/master/Screenshot_20200329_170234_com.pengda.mobile.hhjz%20(2).jpg "open")
 ### From this simple opening interface, you can see that it has advertisements, indicating that it was developed and sponsored by a company related to Tencent. In addition, the learning of this app starts from this.
 ---
-#### (1). App user interface settings and development
+#### （1）。应用程序用户界面设置和开发
+#### The start interface of an app needs to be a frequently used development software ———— Android Studio，This software is open source, you can design any app you want on it.Simple operation and file introduction are omitted here. For details, please refer to the official website, click the link below：https://developer.android.com/training/basics/firstapp/running-app?hl=zh-cn
+#### Next we enter the production page to explain.
